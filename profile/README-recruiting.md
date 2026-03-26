@@ -1,26 +1,26 @@
 # Build With Tex Prebuild
 
-Tex Prebuild is a high-caliber engineering organization building secure, scalable software systems for enterprise environments.
+Tex Prebuild is an engineering organization for builders who want to ship secure, scalable systems with real production impact.
 
-## Why Engineers Join
+## Why Engineers Choose Tex Prebuild
 
-- Work on real production systems with clear business impact
-- Build across full-stack, platform, and cloud security domains
-- Learn in a culture that values technical depth and ownership
-- Ship with modern tooling, strong standards, and reliable processes
+- Meaningful work on business-critical platforms
+- Scope across product, platform, cloud, and security domains
+- A culture that rewards technical depth and ownership
+- Standards and tooling that support high-quality delivery
 
 ## What We Value
 
 - Technical rigor over shortcuts
-- Accountability for outcomes, not just output
-- Clear written communication and collaborative review culture
-- Curiosity, integrity, and long-term craft development
+- Accountability for outcomes
+- Clear communication and collaborative review
+- Curiosity, integrity, and continuous growth
 
 ## What You Can Expect
 
 - Strong peer review and architecture mentorship
-- Structured engineering standards with room for innovation
-- Exposure to cloud-native and security-first system design
+- Structured standards with space for innovation
+- Exposure to cloud-native and security-first design
 - Opportunities to lead initiatives that improve platform maturity
 
 ## Typical Focus Areas
@@ -30,7 +30,7 @@ Tex Prebuild is a high-caliber engineering organization building secure, scalabl
 - Azure infrastructure and delivery automation
 - Reliability, observability, and security engineering
 
-If you are passionate about building resilient software at enterprise quality, we want to hear from you.
+If you are committed to engineering excellence at production scale, we would like to connect.
 
 ---
 
