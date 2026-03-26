@@ -1,40 +1,40 @@
 # Tex Prebuild Internal Profile
 
-This profile is intended for internal teams, platform owners, and trusted engineering partners.
+This profile is intended for internal teams, platform owners, and trusted delivery partners.
 
-## Platform Posture
+## Operational Posture
 
-Tex Prebuild operates under a privileged enterprise engineering model with strict controls around change management, access governance, and production reliability.
+Tex Prebuild runs a privileged enterprise model with strict controls for access, change management, and production safety.
 
-## Required Operating Standards
+## Mandatory Standards
 
-- Branch protection and CODEOWNERS enforcement on all critical repositories
-- Mandatory CI gates for lint, typecheck, build, and security checks
-- Infrastructure as Code as the only path for environment mutation
-- Deployment runbooks and rollback criteria for production releases
-- Incident management aligned to severity-based response workflows
+- Branch protection and CODEOWNERS on critical repositories
+- CI-enforced quality and security gates
+- Infrastructure as Code as the authoritative change path
+- Deployment runbooks with explicit rollback criteria
+- Incident handling aligned to severity-based response policies
 
 ## Security Baseline
 
-- Least-privilege access, time-bounded elevation where applicable
-- Managed identities and secret isolation by environment
+- Least-privilege access with governed elevation paths
+- Managed identity and environment-specific secret isolation
 - Encryption in transit and at rest across managed services
-- Dependency and supply-chain monitoring with remediation SLAs
+- Supply-chain monitoring with remediation SLAs
 - Continuous telemetry, alerting, and audit traceability
 
-## Repository Taxonomy
+## Repository Classification
 
-- Product: externally facing applications and services
-- Platform: shared runtime, tooling, and infrastructure modules
-- Governance: standards, templates, and policy enforcement artifacts
-- Enablement: onboarding, guides, and reference implementations
+- Product: customer and business-facing systems
+- Platform: shared runtime, tooling, and infrastructure layers
+- Governance: standards, templates, and policy artifacts
+- Enablement: onboarding assets and reference implementations
 
-## Internal Collaboration Expectations
+## Collaboration Expectations
 
-- Small, reviewable pull requests with context-rich descriptions
-- Architectural changes documented with ADRs where impact is material
-- No direct production changes outside approved deployment workflows
-- Post-incident learnings captured and actioned
+- Small, context-rich pull requests
+- Architectural decisions documented when impact is material
+- No direct production changes outside approved release workflows
+- Post-incident learnings documented and actioned
 
 ---
 
