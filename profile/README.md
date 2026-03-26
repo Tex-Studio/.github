@@ -1,46 +1,45 @@
 # Tex Prebuild
 
-Tex Prebuild is an enterprise engineering organization focused on secure software delivery, cloud platform excellence, and production reliability at scale.
+Tex Prebuild is an enterprise engineering organization delivering secure software systems, resilient cloud platforms, and operationally mature digital products.
 
-## Mission
+## Executive Mission
 
-Design and operate software systems that are:
+We build and operate technology that is:
 - Secure by default
-- Reliable under production load
-- Observable and measurable end to end
-- Governed for enterprise trust and compliance
+- Reliable under real-world production load
+- Observable across the full service lifecycle
+- Governed for enterprise accountability and trust
 
-## Strategic Capability Areas
+## Strategic Delivery Areas
 
-- Product engineering for mission-critical web platforms
-- Azure-native cloud architecture and deployment automation
-- API and integration engineering for enterprise ecosystems
-- Platform enablement and internal developer tooling
-- Security and reliability engineering for high-trust systems
+- Product engineering for business-critical web and API platforms
+- Cloud architecture and Azure-native delivery automation
+- Platform enablement for high-velocity engineering teams
+- Security and reliability engineering for regulated environments
+- Integration and data workflows across enterprise systems
 
-## Engineering and Governance Principles
+## Operating Principles
 
-- Strong typing, maintainable module boundaries, and clear ownership
-- CI-enforced quality gates for lint, typecheck, build, and policy
-- Infrastructure as Code with deterministic environment workflows
-- Change management with rollback criteria and operational runbooks
-- Continuous telemetry, alerting, and audit-ready traceability
+- Architecture clarity with explicit ownership boundaries
+- Quality gates enforced through CI and policy
+- Infrastructure as Code as a standard operating model
+- Change control with rollback criteria and incident readiness
+- Continuous telemetry, auditing, and measurable service health
 
-## Security Posture
+## Security and Trust Model
 
-Tex Prebuild follows a privileged security model suitable for enterprise-grade operations:
-- Least-privilege access and role-based controls
+Tex Prebuild follows a privileged enterprise security posture:
+- Least-privilege access and role-based governance
 - Managed identity and secret isolation patterns
 - Encryption in transit and at rest
-- Supply-chain and dependency hygiene controls
-- Continuous monitoring and incident response readiness
+- Supply-chain hygiene and dependency governance
+- Continuous monitoring and response readiness
 
-If you need to report a security issue, do not open a public issue. Use approved private disclosure channels defined at repository level.
+For security disclosures, use approved private channels listed at repository level.
 
-## Profile Variants
+## Audience Variants
 
-This repository includes specialized profile drafts for different audiences:
-- Public-facing profile: [README-public.md](README-public.md)
+- Public profile: [README-public.md](README-public.md)
 - Internal profile: [README-internal.md](README-internal.md)
 - Recruiting profile: [README-recruiting.md](README-recruiting.md)
 
